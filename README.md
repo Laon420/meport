@@ -2,7 +2,8 @@
 programming
 
 사용한 하드웨어
-Apple mac M1
+
+<img width="278" alt="스크린샷 2023-04-07 오후 2 21 05" src="https://user-images.githubusercontent.com/95477323/230546316-4a0fd753-f223-43df-8f31-a67714c7cff8.png">
 
 사용한 소프트웨어
 vscode, android studio
